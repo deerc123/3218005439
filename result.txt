@@ -1,0 +1,4 @@
+源文本绝对路径：C:\SOFTWARE\workspace\Levenshtein Distance\src\orig.txt
+查重文本绝对路径：C:\SOFTWARE\workspace\Levenshtein Distance\src\orig_0.8_del.txt
+查重答案绝对路径：C:\SOFTWARE\workspace\Levenshtein Distance\src\result.txt
+similarityRatio=0.8299813
