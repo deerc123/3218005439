@@ -1,4 +1,4 @@
-package Yuxian;
+package levenshtein;
 
 
 import java.io.BufferedReader;
@@ -124,7 +124,9 @@ public class CompareStrSimUtil {
 	}
 
  
-
+/*
+ * 计算相似度
+ */
 	public static float getSimilarityRatio(String str, String target, boolean isIgnore) {
 
 		float ret = 0;
@@ -174,4 +176,6 @@ public class CompareStrSimUtil {
  }}
 
  
+
+
 
